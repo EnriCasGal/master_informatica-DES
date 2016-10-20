@@ -1,0 +1,35 @@
+h1 {
+  font-size: 24px !important;
+}
+
+h2 {
+  font-size: 20px !important;
+}
+
+h3 {
+  font-size: 16px !important;
+}
+
+h4 {
+  font-size: 14px !important;
+}
+
+h5 {
+  font-size: 12px !important;
+}
+
+h6 {
+  font-size: 11px !important;
+}
+
+blockquote p {
+  font-size: 14px !important;
+}
+
+ol {
+  font-size: 11px !important;
+}
+
+p {
+  font-size: 11px !important;
+}
