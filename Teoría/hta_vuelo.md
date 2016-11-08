@@ -1,25 +1,4 @@
-<style>
-h1 {
-  font-size: 24px !important;
-}
-
-h3 {
-  font-size: 16px !important;
-}
-
-blockquote p {
-  font-size: 14px !important;
-}
-
-ul {
-  font-size: 11px !important;
-}
-
-p {
-  font-size: 11px !important;
-}
-</style>
-# DES - Evaluación Heurística
+# DES - HTA Vuelo
 
 > Francisco Javier Bolívar Lupiáñez
 
