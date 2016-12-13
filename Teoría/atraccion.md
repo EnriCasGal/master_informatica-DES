@@ -2,7 +2,7 @@
 
 > Francisco Javier Bolívar Lupiáñez
 
-### Atracción: "Complacencia, gusto o placer inspirado en los usuarios por los servicios e información que entrega el sistema". Crear un conjunto de medidas para la propiedad de atracción de una aplicación web.
+**Atracción: "Complacencia, gusto o placer inspirado en los usuarios por los servicios e información que entrega el sistema". Crear un conjunto de medidas para la propiedad de atracción de una aplicación web.**
 
 * **Cantidad de información mostrada**: Número de elementos visibles al mismo tiempo. Por ejemplo, en una página web de noticias, cantidad de noticias que hay en la pantalla. Cuando son pocas el usuario se molestará por tener que moverse mucho para ir viéndolas todas y si hay demasiadas el usuario puede distraerse.
 * **Uso de imágenes que sustituyan palabras**: Relacionado en parte, con el de cantidad de información mostrada. Y es que resulta redundante encontrar "Telefono: 958 00 00 00". Usar una imágen de un teléfono en lugar del texto u omitirlo directamente cuando no puede produce confusión puede ser una alternativa más atractiva al usuario.

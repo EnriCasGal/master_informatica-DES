@@ -2,7 +2,7 @@
 
 > Francisco Javier Bolívar Lupiáñez
 
-### Realizar una evaluación heurística aplicando *las reglas de Nielsen* de una página web. Entregar un documento (Informe del análisis de usabilidad donde aparezcan): problemas detectados, importancia y frecuencia y solución propuesta
+**Realizar una evaluación heurística aplicando *las reglas de Nielsen* de una página web. Entregar un documento (Informe del análisis de usabilidad donde aparezcan): problemas detectados, importancia y frecuencia y solución propuesta**
 
 #### Informe del análisis de usabilidad de Prado2
 
