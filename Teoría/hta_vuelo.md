@@ -2,7 +2,7 @@
 
 > Francisco Javier Bolívar Lupiáñez
 
-### Crear un modelo de tareas (usando HTA) para la actividad de "realizar un viaje en avión" (buscar roles, objetivos, tareas y subtareas, objetos, planes,...) (Puede ayudar pensar algunos escenarios de uso concretos). Realizar una descripción del proceso completo usando un diagrama HTA.
+**Crear un modelo de tareas (usando HTA) para la actividad de "realizar un viaje en avión" (buscar roles, objetivos, tareas y subtareas, objetos, planes,...) (Puede ayudar pensar algunos escenarios de uso concretos). Realizar una descripción del proceso completo usando un diagrama HTA.**
 
 ![Diagrama HTA Vuelo](img/hta_vuelo/hta_vuelo.png)
 
