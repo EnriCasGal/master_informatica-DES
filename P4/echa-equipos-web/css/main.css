@@ -961,3 +961,8 @@ a:focus {
 {
   background-color: #5bd878 !important;
 }
+
+.copyright-text > a
+{
+  color: #5bd878;
+}
