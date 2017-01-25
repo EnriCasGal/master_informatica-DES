@@ -76,6 +76,11 @@ a:focus {
 .navbar-fixed-top {
   padding: 15px 0;
 }
+
+.navbar.navbar
+{
+  background-color: #5bd878;
+}
 .affix {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
@@ -656,7 +661,7 @@ a:focus {
   width: 50px;
   margin: 0px auto;
   height: 2px;
-  background: #009688;
+  background: #5bd878;
 }
 #counter .timer {
   font-size: 50px;
@@ -949,4 +954,10 @@ a:focus {
 .ball-triangle-path > div:nth-of-type(3) {
   top: 50px;
   left: 50px;
+}
+
+
+.btn-primary
+{
+  background-color: #5bd878 !important;
 }
