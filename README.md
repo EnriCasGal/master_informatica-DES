@@ -36,14 +36,14 @@ Repositorio de la asignatura Desarrollo y Evaluación de Sistemas Software Inter
 
 ## Prácticas
 
-* Práctica 1: Selección de software a desarrollar
+* [Práctica 1: Selección de software a desarrollar](https://github.com/fblupi/master_informatica-DES/tree/master/P1)
   * Generación de ideas
   * Técnicas de Brainstorming
   * Representación usando Mapas Conceptuales
-* Práctica 2: Descripcion inicial del problema
+* [Práctica 2: Descripcion inicial del problema](https://github.com/fblupi/master_informatica-DES/tree/master/P2)
   * Modelado de usuarios
   * Definición de escenarios de uso
-* Práctica 3: Iteraciones de diseño
+* [Práctica 3: Iteraciones de diseño](https://github.com/fblupi/master_informatica-DES/tree/master/P3)
   * Diseño conceptual de la solución
   * Arquitectura de la información
   * Modelo de tareas
@@ -54,7 +54,7 @@ Repositorio de la asignatura Desarrollo y Evaluación de Sistemas Software Inter
   * Prototipado de alta fidelidad
   * Evaluación del prototipo con y sin usuarios
   * Evaluación
-* Práctica 4: Evaluación final de la aplicación y lanzamiento
+* [Práctica 4: Evaluación final de la aplicación y lanzamiento](https://github.com/fblupi/master_informatica-DES/tree/master/P4)
   * Evaluación con usuarios
   * Presentación final del proyecto
   * Desarrollo del sitio web del proyecto
